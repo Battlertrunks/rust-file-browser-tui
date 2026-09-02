@@ -1,0 +1,14 @@
+# Rust build output
+/target
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS junk (you're on macOS)
+.DS_Store
+
+# Logs / misc
+*.log
